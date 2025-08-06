@@ -40,14 +40,20 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
 </p>
 
 <p align="center">
-  <h4>🔒 Security & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=linux,kali,burpsuite,nmap,metasploit,wireshark,john,hydra,sqlnmap" />
+  <h4>🔒 Security Tools</h4>
+  <img src="https://skillicons.dev/icons?i=linux,kali,burpsuite,nmap,metasploit,wireshark,john,hydra" />
   <br>
   <img src="https://img.shields.io/badge/OWASP_ZAP-772953?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
   <img src="https://img.shields.io/badge/theHarvester-66CC66?style=for-the-badge&logo=theharvester&logoColor=white" alt="theHarvester"/>
   <img src="https://img.shields.io/badge/Shodan-FF5500?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
   <img src="https://img.shields.io/badge/Amap-FF5500?style=for-the-badge&logo=amap&logoColor=white" alt="Amap"/>
   <img src="https://img.shields.io/badge/ffuf-008080?style=for-the-badge&logo=ffuf&logoColor=white" alt="ffuf"/>
+  <img src="https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logo=subfinder&logoColor=white" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Amass-44CC44?style=for-the-badge&logo=amass&logoColor=white" alt="Amass"/>
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white" alt="SQLMap"/>
+  <img src="https://img.shields.io/badge/Nessus-FF6600?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Nikto-FF6600?style=for-the-badge&logo=nikto&logoColor=white" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/Recon--ng-336699?style=for-the-badge&logo=recon-ng&logoColor=white" alt="Recon-ng"/>
 </p>
 
 <p align="center">
