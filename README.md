@@ -41,11 +41,13 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
 
 <p align="center">
   <h4>🔒 Security & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=linux,burpsuite,nmap,metasploit,wireshark,kali,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,burpsuite,nmap,metasploit,wireshark,john,hydra,sqlnmap" />
   <br>
   <img src="https://img.shields.io/badge/OWASP_ZAP-772953?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
-  <img src="https://img.shields.io/badge/Nmap-306998?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-167900?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/theHarvester-66CC66?style=for-the-badge&logo=theharvester&logoColor=white" alt="theHarvester"/>
+  <img src="https://img.shields.io/badge/Shodan-FF5500?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+  <img src="https://img.shields.io/badge/Amap-FF5500?style=for-the-badge&logo=amap&logoColor=white" alt="Amap"/>
+  <img src="https://img.shields.io/badge/ffuf-008080?style=for-the-badge&logo=ffuf&logoColor=white" alt="ffuf"/>
 </p>
 
 <p align="center">
