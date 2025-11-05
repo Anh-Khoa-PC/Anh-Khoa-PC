@@ -81,6 +81,12 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
 
 ---
 
+---
+
+### Hacktoberfest2025
+
+[![An image of @anhkhoapc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anhkhoapc)](https://holopin.io/@anhkhoapc)
+
 ### 🌐 Kết nối với tôi
 
 <p align="center">
